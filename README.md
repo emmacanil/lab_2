@@ -7,7 +7,7 @@
 I utilized a few different coding resources in the making of this map including Mapbox tutorials and GitHub documentation of some functions. The tutorial resources I used from Mapbox tutorials included the ‘Analyze data with Turf.js and Mapbox.js’ tutorial to import and symbolize the points of hospitals on the map. In terms of the interactivity of the map, I used the ‘Build a store locator using Mapbox GL JS’ tutorial to code the function that locates the nearest hospital as well as to organize the list of hospitals on the side-bar when a user inputs their address in the search bar.
 
 ### Link to map:
-
+(https://emmacanil.github.io/lab_2/)
 
 ### Reflective analysis: 
 The audience for which I designed this map is the British Columbia Health Authority and their respective audiences. The need this map attempts in addressing is to locate the nearest hospital to the user’s given and selected address. This map could also serve the need of healthcare workers to find the distance to the nearest hospital in the situation of a medical emergency. My map is successful in this attempt as when the user inputs an address, the map returns the point of the address the user inputted and the point location of the nearest hospital to them. At the same time, when a user selects their address through the search bar, the map re-organizes a list of hospitals sorted by their distance to the point the user has selected.
