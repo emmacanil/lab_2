@@ -1,10 +1,10 @@
 # GEOS 472: Lab 2
 
 ### Screenshot:
-
+![Screen Shot 2023-03-31 at 5 55 00 PM](https://user-images.githubusercontent.com/122398935/229257685-24c2faf2-7fbf-4c49-981b-40e707e5d1dd.png)
 
 ### Collaborations and reliance on other resources:
-I utilized a few different coding resources in the making of this map including Mapbox tutorials and GitHub documentation of some functions. The tutorial resources I used from Mapbox tutorials included the ‘Analyze data with Turf.js and Mapbox.js’ tutorial to import and symbolize the points of hospitals on the map. In terms of the interactivity of the map, I used the ‘Build a store locator using Mapbox GL JS’ tutorial to code the function that locates the nearest hospital as well as to organize the list of hospitals on the side-bar when a user inputs their address in the search bar.
+I utilized a few coding resources in the making of this map including Mapbox tutorials and GitHub documentation of some functions. The first tutorial resource I used from Mapbox tutorials included the ‘Analyze data with Turf.js and Mapbox.js’ tutorial to import and symbolize the points of hospitals on the map. In terms of the interactivity of the map, I used the ‘Build a store locator using Mapbox GL JS’ tutorial to code the function that locates the nearest hospital as well as to organize the list of hospitals on the side-bar when a user inputs their address in the search bar. I also used this tutorial as a reference for the automatic popup of the nearest hospital.
 
 ### Link to map:
 (https://emmacanil.github.io/lab_2/)
